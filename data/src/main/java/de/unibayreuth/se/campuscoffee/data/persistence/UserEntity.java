@@ -5,7 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
+import de.unibayreuth.se.campuscoffee.data.persistence.UserEntity;
 import java.time.LocalDateTime;
 
 /**
